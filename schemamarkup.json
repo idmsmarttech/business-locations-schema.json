@@ -1,0 +1,288 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Kalyan Enterprise:Balcony Safety Nets,Anti Bird Nets,Pigeon safety Nets,Bird spikes,Cricket Practice Nets in Manikonda",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjXP6DEGolII6o3zvvUrtJ4wgZGhy83ZsjRgwyWl26q2DOn0FtI=s265-w265-h265",
+    "@id": "https://www.kalyanenterprise.in/balcony-safety-net-in-manikonda.html",
+    "url": "https://www.kalyanenterprise.in/balcony-safety-net-in-manikonda.html",
+    "telephone": "8074146170",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Door No 33, Anupama Homes, Puppalaguda - Manikonda, Main Rd, near Anjali Gardens, Lakshmi Narayana Swamy Nagar, Puppalguda, Hyderabad, Telangana 500089",
+      "addressLocality": "Hyderabad",
+      "postalCode": "500089",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4045601,
+      "longitude": 78.3773553
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/Kalyanenterprise/100057034406552/?modal=admin_todo_tour",
+      "https://www.instagram.com/kalyanenterprise3/",
+      "https://www.youtube.com/channel/UCZJDgJlmc92h7t7wXyqz8Gg/featured"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Kalyan Enterprises : balcony safety nets, bird nets , bird spikes Distributions and Service in Lingampally",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjXP6DEGolII6o3zvvUrtJ4wgZGhy83ZsjRgwyWl26q2DOn0FtI=s265-w265-h265",
+    "@id": "https://www.kalyanenterprise.in/balcony-safety-net-in-lingampalli.html",
+    "url": "https://www.kalyanenterprise.in/balcony-safety-net-in-lingampalli.html",
+    "telephone": "8074146170",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "HUDA Trade Center, Plot No C-2, Lingampally, Hyderabad, Serilingampalle (M), Telangana 500019",
+      "addressLocality": "Hyderabad",
+      "postalCode": "500019",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4851338,
+      "longitude": 78.3156576
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/Kalyanenterprise/100057034406552/?modal=admin_todo_tour",
+      "https://www.instagram.com/kalyanenterprise3/",
+      "https://www.youtube.com/channel/UCZJDgJlmc92h7t7wXyqz8Gg/featured"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Kalyan Enterprises : bird nets, anti bird nets, pigeon safety nets distribution and service in Boduppal",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjXP6DEGolII6o3zvvUrtJ4wgZGhy83ZsjRgwyWl26q2DOn0FtI=s265-w265-h265",
+    "@id": "https://www.kalyanenterprise.in/balcony-safety-net-in-mallikarjuna-nagar.html",
+    "url": "https://www.kalyanenterprise.in/balcony-safety-net-in-mallikarjuna-nagar.html",
+    "telephone": "8074146170",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "H. no: 3, 117/12, near Fish Building, Bheem Reddy Nagar, Mallika Arjun Nagar, Boduppal, Hyderabad, Telangana 500092",
+      "addressLocality": "Hyderabad",
+      "postalCode": "500092",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4129433,
+      "longitude": 78.5943166
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/Kalyanenterprise/100057034406552/?modal=admin_todo_tour",
+      "https://www.instagram.com/kalyanenterprise3/",
+      "https://www.youtube.com/channel/UCZJDgJlmc92h7t7wXyqz8Gg/featured"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Kalyan Enterprises :Anti bird nets, children safety nets, bird netting, safety nets distribution and service in Lb Nagar",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjXP6DEGolII6o3zvvUrtJ4wgZGhy83ZsjRgwyWl26q2DOn0FtI=s265-w265-h265",
+    "@id": "https://www.kalyanenterprise.in/balcony-safety-net-in-lb-nagar.html",
+    "url": "https://www.kalyanenterprise.in/balcony-safety-net-in-lb-nagar.html",
+    "telephone": "8074146170",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3rd and 4th floors, Sonovision Building, H. no: 3, 6-205/1, LB Nagar, Hyderabad, Telangana 500074",
+      "addressLocality": "Hyderabad",
+      "postalCode": "500074",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.409838,
+      "longitude": 78.5574742
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/Kalyanenterprise/100057034406552/?modal=admin_todo_tour",
+      "https://www.instagram.com/kalyanenterprise3/",
+      "https://www.youtube.com/channel/UCZJDgJlmc92h7t7wXyqz8Gg/featured"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Kalyan Enterprises : bird nets , pigeon safety nets , anti bird nets, safety nets distribution and service in Suchitra",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjXP6DEGolII6o3zvvUrtJ4wgZGhy83ZsjRgwyWl26q2DOn0FtI=s265-w265-h265",
+    "@id": "https://www.kalyanenterprise.in/anti-bird-net-in-suchitra.html",
+    "url": "https://www.kalyanenterprise.in/anti-bird-net-in-suchitra.html",
+    "telephone": "8074146170",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Plot No7 1st floor Suchitra x Roads, Cross Road, Suchitra, Hyderabad, Telangana 500067",
+      "addressLocality": "Hyderabad",
+      "postalCode": "500067",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.503211,
+      "longitude": 78.4797555
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/Kalyanenterprise/100057034406552/?modal=admin_todo_tour",
+      "https://www.instagram.com/kalyanenterprise3/",
+      "https://www.youtube.com/channel/UCZJDgJlmc92h7t7wXyqz8Gg/featured"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Kalyan Enterprises :bird netting, anti bird nets, children safety nets, bird spikes, safety nets Supply and Install in ECIL",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjXP6DEGolII6o3zvvUrtJ4wgZGhy83ZsjRgwyWl26q2DOn0FtI=s265-w265-h265",
+    "@id": "https://www.kalyanenterprise.in/anti-bird-net-in-ecil.html",
+    "url": "https://www.kalyanenterprise.in/anti-bird-net-in-ecil.html",
+    "telephone": "8074146170",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "urvey No333, Bharath Nagar Colony, P No-10 p, near ECIL Cross Roads, North Kamala Nagar, Kushaiguda, Hyderabad, Secunderabad, Telangana 500062",
+      "addressLocality": "Hyderabad",
+      "postalCode": "500062",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4738194,
+      "longitude": 78.5705899
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/Kalyanenterprise/100057034406552/?modal=admin_todo_tour",
+      "https://www.instagram.com/kalyanenterprise3/",
+      "https://www.youtube.com/channel/UCZJDgJlmc92h7t7wXyqz8Gg/featured"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Kalyan Enterprises: Bird netting, Safetynets, Anti bird nets ,Bird spikes, Children, Balcony & Pigeon safety nets in kokapet",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjXP6DEGolII6o3zvvUrtJ4wgZGhy83ZsjRgwyWl26q2DOn0FtI=s265-w265-h265",
+    "@id": "https://www.kalyanenterprise.in/balcony-safety-net-in-kokapet.html",
+    "url": "https://www.kalyanenterprise.in/balcony-safety-net-in-kokapet.html",
+    "telephone": "8074146170",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Survey No. 161, Brundhavan Colony Behind Vijetha Super Market,kokapet hakimpet road, Javed Rd, Hyderabad, Telangana 500075",
+      "addressLocality": "Hyderabad",
+      "postalCode": "500075",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4086765,
+      "longitude": 78.409814
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/Kalyanenterprise/100057034406552/?modal=admin_todo_tour",
+      "https://www.instagram.com/kalyanenterprise3/",
+      "https://www.youtube.com/channel/UCZJDgJlmc92h7t7wXyqz8Gg/featured"
+    ]
+  }
+]
